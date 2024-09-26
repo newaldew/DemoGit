@@ -1,3 +1,3 @@
 I am in test branch fine?
 
-Checking rebase
+Checking rebase, fine?
