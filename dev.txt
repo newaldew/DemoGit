@@ -1,7 +1,1 @@
-<<<<<<< HEAD
 I am in master branch
-=======
-I am in master branch
-
-Adding extra code in master
->>>>>>> master
