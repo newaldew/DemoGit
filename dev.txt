@@ -1,2 +1,1 @@
-My name is Goldie Test
-
+I am in master branch
